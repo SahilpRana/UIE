@@ -1,0 +1,8 @@
+Miniconda3-latest-Linux-x86_64.sh
+*.npy
+n/RL/test/checkpoints/
+*.ckpt*
+*.data-00000-of-00001
+*.meta
+__pycache__/
+*.pyc
